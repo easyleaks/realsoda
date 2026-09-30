@@ -1,1 +1,0 @@
-Host=localhost;Port=5432;Database=chudo_obuv;Username=postgres;Password=ТВОЙ_ПАРОЛЬ;Timeout=5;Command Timeout=15
